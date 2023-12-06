@@ -24,7 +24,7 @@
     background-color: #e0e0e0;
   }
   
-  .display {
+  .tela {
     grid-column: span 4;
     text-align: right;
     padding: 10px;
