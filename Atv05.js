@@ -1,8 +1,5 @@
 
-function Atv01(){
- 
-  digitacao();
-  relogio();
+function Atv05(){
   return (
       <>
           <link to="/">Retornar para a pagina inicial</link>
