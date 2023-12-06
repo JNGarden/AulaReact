@@ -1,4 +1,4 @@
-import { Profile } from 'Gallery.js';
+import { Profile } from './gallery.js';
 import React from 'react';
 function atv03(){
     <link to="/">Retornar para a pagina inicial</link>
